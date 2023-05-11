@@ -11,7 +11,11 @@ My Skills [CSS] [HTML] [JavaScript]
 - Email: maserole.mojela@gmail.com
 - Linkedin:https://linkedin.com/in/sheila-kobue-8216%201973
 - facebook:https://facebook.com/maserole.mojela
-- My Projects on Githup: https://github.com/sheilakobue
+- Github: https://github.com/sheilakobue
+
+-My project:
+https://github.com/Sheilakobue/Resumes/tree/153cfc148514a43c2a3895a967fe23ad80acfb79/SHEKOB881_bcl2302_Naeem_SheilaKobue_ITW9-main
+
 
 
 
