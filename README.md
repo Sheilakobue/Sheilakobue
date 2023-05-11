@@ -1,10 +1,10 @@
 Introduction
 
-- 👋 Hi, I'm Mmaserole Sheila Kobue! I am a junior Software developer (specializing in Front-End Developer),pursing my software development course with (Royal Bafokeng Codelab and Code Space), I am currently based in Rustenburg, North West. 
-
-- Welcome to my profile! This README file will provide you with some information about me, my background, and my interests. Feel free to explore and reach out to me if you have any questions or would like to connect.
+Welcome to my profile! This README file will provide you with some information about me, my background, and my interests. Feel free to explore and reach out to me if you have any questions or would like to connect.
 
 About Me
+👋 Hi, I'm Mmaserole Sheila Kobue! I am a junior Software developer (specializing in Front-End Developer),pursing my software development course with (Royal Bafokeng Codelab and Code Space), I am currently based in Rustenburg, North West. 
+
 I am passionate about being a Frond-End-Developer. With a one years of the Softwere Development course expirience, I have developed a strong foundation in Front-End-Development. I enjoy creating web applications and websites and continually strive to expand my knowledge and stay up-to-date with the latest industry trends.
 
 My Skills
@@ -18,8 +18,30 @@ My Skills
 - facebook:https://facebook.com/maserole.mojela
 - Github: https://github.com/sheilakobue
 
--My project:
+My project:
 https://github.com/Sheilakobue/Resumes/tree/153cfc148514a43c2a3895a967fe23ad80acfb79/SHEKOB881_bcl2302_Naeem_SheilaKobue_ITW9-main
+- I created a digital resume using  HTML and CSS technology,the digital resume is responsive, the links works. It consist of images, flexbox, forms, grid and websites
+
+ Description of the tech stack
+- HTML (Hypertext Markup Language): The standard markup language for creating web pages.
+- CSS (Cascading Style Sheets): Used for styling and formatting the visual presentation of web pages.
+- JavaScript: A versatile programming language that enables interactive and dynamic functionality on web pages.
+- Front-end Frameworks: Popular frameworks like React, Angular, or Vue.js can simplify front-end development and enhance user interfaces.
+
+Educational Backround
+
+- Code-Space Academy & Bafokeng CodeLab       2023
+Software Development Course
+
+- Central Johannesburg College (CJC)          2009
+Civil Engineering
+N1-N6
+
+- Sterkrevier Combined School                 2005
+English, sepedi, Afrikaans, Mathematics, Physical Science, Biology, History
+Grade 12
+
+
 
 - Additional Information
 Feel free to explore my repositories and projects on GitHub. I am open to collaboration and always eager to learn from others. Don't hesitate to reach out if you have any questions, ideas, or opportunities you'd like to discuss.
