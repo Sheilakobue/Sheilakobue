@@ -1,4 +1,4 @@
-- 👋 Hi,Hi, I'm Mmaserole Sheila Kobue! I am a junior Software developer (specializing in Front-End Developer),pursing my software development course with (Royal Bafokeng Codelab and Code Space)
+- 👋 Hi, I'm Mmaserole Sheila Kobue! I am a junior Software developer (specializing in Front-End Developer),pursing my software development course with (Royal Bafokeng Codelab and Code Space)
 I am currently based in Rustenburg, North West. 
 
 My Skills [CSS] [HTML] [JavaScript]
