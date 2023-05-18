@@ -3,7 +3,7 @@ Introduction
 Welcome to my profile! This README file will provide you with some information about me, my background, and my interests. Feel free to explore and reach out to me if you have any questions or would like to connect.
 
 About Me
-👋 Hi, I'm Mmaserole Sheila Kobue! I am a junior Software developer (specializing in Front-End Developer),pursing my software development course with (Royal Bafokeng Codelab and Code-Space), I am currently based in Rustenburg, North West. 
+👋, I'm Mmaserole Sheila Kobue! I am a junior Software developer (specializing in Front-End Developer),pursing my software development course with (Royal Bafokeng Codelab and Code-Space), I am currently based in Rustenburg, North West. 
 
 I am passionate about being a Frond-End-Developer. With a one years of the Softwere Development course expirience, I have developed a strong foundation in Front-End-Development. I enjoy creating web applications and websites and continually strive to expand my knowledge and stay up-to-date with the latest industry trends.
 
