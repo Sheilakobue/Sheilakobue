@@ -9,7 +9,7 @@ I am passionate about being a Frond-End-Developer. With a one years of the Softw
 
 My Skills
 
-- [CSS](https://www.codespace.co.za/programs/)
+- [![image](https://github.com/Sheilakobue/Sheilakobue/assets/125880665/2c67a9e8-2e53-4e67-bc11-f65b619d3652)](https://www.codespace.co.za/programs/)
 - [HTML] 
 - [JavaScript]
 
@@ -21,7 +21,8 @@ My Skills
 - [Github](https://github.com/sheilakobue)
 
 My project:
-https://github.com/Sheilakobue/Resumes/tree/153cfc148514a43c2a3895a967fe23ad80acfb79/SHEKOB881_bcl2302_Naeem_SheilaKobue_ITW9-main
+[Online Resume project](https://github.com/Sheilakobue/Resumes/tree/153cfc148514a43c2a3895a967fe23ad80acfb79/SHEKOB881_bcl2302_Naeem_SheilaKobue_ITW9-main)
+
 - I created a digital resume using  HTML and CSS technology,the digital resume is responsive, the links works. It consist of images, flexbox, forms, grid and websites
 
 Description of the tech stack
