@@ -9,7 +9,7 @@ I am passionate about being a Frond-End-Developer. With a one years of the Softw
 
 My Skills
 
-- [![image](https://github.com/Sheilakobue/Sheilakobue/assets/125880665/2c67a9e8-2e53-4e67-bc11-f65b619d3652)](https://www.codespace.co.za/programs/)
+- [CSS]
 - [HTML] 
 - [JavaScript]
 
