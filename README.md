@@ -3,16 +3,18 @@ Introduction
 Welcome to my profile! This README file will provide you with some information about me, my background, and my interests. Feel free to explore and reach out to me if you have any questions or would like to connect.
 
 About Me
-👋 Hi, I'm Mmaserole Sheila Kobue! I am a junior Software developer (specializing in Front-End Developer),pursing my software development course with (Royal Bafokeng Codelab and Code Space), I am currently based in Rustenburg, North West. 
+👋 Hi, I'm Mmaserole Sheila Kobue! I am a junior Software developer (specializing in Front-End Developer),pursing my software development course with (Royal Bafokeng Codelab and Code-Space), I am currently based in Rustenburg, North West. 
 
 I am passionate about being a Frond-End-Developer. With a one years of the Softwere Development course expirience, I have developed a strong foundation in Front-End-Development. I enjoy creating web applications and websites and continually strive to expand my knowledge and stay up-to-date with the latest industry trends.
 
 My Skills
+
 - [CSS] 
 - [HTML] 
 - [JavaScript]
 
-- 📫Contact Information:
+ 📫Contact Information:
+ 
 - [Email](maserole.mojela@gmail.com)
 - [Linkedin](https://linkedin.com/in/sheila-kobue-8216%201973)
 - [facebook](https://facebook.com/maserole.mojela)
@@ -24,23 +26,12 @@ https://github.com/Sheilakobue/Resumes/tree/153cfc148514a43c2a3895a967fe23ad80ac
 
  Description of the tech stack
 - HTML (Hypertext Markup Language): The standard markup language for creating web pages.
+
 - CSS (Cascading Style Sheets): Used for styling and formatting the visual presentation of web pages.
+
 - JavaScript: A versatile programming language that enables interactive and dynamic functionality on web pages.
+
 - Front-end Frameworks: Popular frameworks like React, Angular, or Vue.js can simplify front-end development and enhance user interfaces.
-
-Educational Backround
-
-- Code-Space Academy & Bafokeng CodeLab       2023
-Software Development Course
-
-- Central Johannesburg College (CJC)          2009
-Civil Engineering
-N1-N6
-
-- Sterkrevier Combined School                 2005
-English, sepedi, Afrikaans, Mathematics, Physical Science, Biology, History
-Grade 12
-
 
 
 - Additional Information
