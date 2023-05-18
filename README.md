@@ -13,8 +13,8 @@ My Skills
 - [JavaScript]
 
 - 📫Contact Information:
-- Email: maserole.mojela@gmail.com
-- Linkedin:https://linkedin.com/in/sheila-kobue-8216%201973
+- [Email](maserole.mojela@gmail.com)
+- [Linkedin](https://linkedin.com/in/sheila-kobue-8216%201973)
 - facebook:https://facebook.com/maserole.mojela
 - Github: https://github.com/sheilakobue
 
