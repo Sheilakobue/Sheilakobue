@@ -1,10 +1,9 @@
-<!-- Your GitHub Profile README -->
-
 [![Header](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://github.com/Sheilakobue)
 
 # Hi 👋, I'm Mmaserole Sheila Kobue
 
 ## About Me
+
 I am a passionate junior Front-End Developer currently pursuing my software development course with Royal Bafokeng Codelab and Code-Space.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheilakobue&label=Profile%20views&color=0e75b6&style=flat" alt="sheilakobue" /> </p>
@@ -13,6 +12,7 @@ I am a passionate junior Front-End Developer currently pursuing my software deve
 <img align="right" alt="Coding" width="200" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
 ## GitHub Stats
+
 - 🔭 I’m currently working on [Portfolio](https://jovial-biscotti-51205f.netlify.app/)
 - 🌱 I’m currently learning **Frameworks and Github**
 - 👨‍💻 All of my projects are available at [https://github.com/Sheilakobue](https://github.com/Sheilakobue)
@@ -21,13 +21,12 @@ I am a passionate junior Front-End Developer currently pursuing my software deve
 - 📄 Partlet: [https://padlet.com/maserolemojela/sheila-kobue-s-portfolio-f24226nfwt012lc6](https://padlet.com/maserolemojela/sheila-kobue-s-portfolio-f24226nfwt012lc6)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheila-mmaserole-kobue)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/maserolekobue)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/sheilakobue)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+781536912)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheila-kobue-82161973)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/maserole.mojela)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27781536912)
+
 
 ## Languages and Tools
-<!-- Add your favorite tools and languages here -->
 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -46,7 +45,28 @@ I am a passionate junior Front-End Developer currently pursuing my software deve
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </p>
 
+## Projects
+
+<p>Portfolio</p>
+<a href="https://github.com/Sheilakobue/sheila-portfolio.git">https://github.com/Sheilakobue/sheila-portfolio.git</a>
+
+<p>Personal Digital Card</p>
+<a href="https://github.com/Sheilakobue/digital-PersonalCard.git">https://github.com/Sheilakobue/digital-PersonalCard.git</a>
+
+<p>Block</p>
+<a href="https://github.com/Sheilakobue/SHEKOB881_bcl2302_jse2308_SheilaKobue_FSJ7.git">https://github.com/Sheilakobue/SHEKOB881_bcl2302_jse2308_SheilaKobue_FSJ7.git</a>
+
+<p>Online Resume</p>
+<a href="https://github.com/Sheilakobue/SHEKOB881_bcl2302_Naeem_SheilaKobue_ITW9-main.git">https://github.com/Sheilakobue/SHEKOB881_bcl2302_Naeem_SheilaKobue_ITW9-main.git</a>
+
+<p>Tic Tac Toe Game</p>
+<a href="https://github.com/Sheilakobue/tictactoe-game.git">https://github.com/Sheilakobue/tictactoe-game.git</a>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/sheilakobue)
+
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheilakobue&show_icons=true&locale=en&layout=compact" alt="sheilakobue" />
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sheilakobue&show_icons=true&locale=en" alt="sheilakobue" />
 
