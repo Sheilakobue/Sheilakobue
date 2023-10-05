@@ -1,17 +1,8 @@
-[![Header](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://github.com/Sheilakobue)
-
 # Hi 👋, I'm Mmaserole Sheila Kobue
 
 ## About Me
 
-I am a passionate junior Front-End Developer currently pursuing my software development course with Royal Bafokeng Codelab and Code-Space.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheilakobue&label=Profile%20views&color=0e75b6&style=flat" alt="sheilakobue" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheilakobue" alt="sheilakobue" /></a> </p>
-
-<img align="right" alt="Coding" width="200" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
-
-## GitHub Stats
+I am a motivated and detail-oriented Junior front-enddeveloper with a strong foundation in web developmenttechnologies with a passion for creating visually appealingand user-friendly websites. I am eager to contribute myskills and collaborate with a dynamic team to buildinnovative web solutions that enhance user experiences
 
 - 🔭 I’m currently working on [Portfolio](https://jovial-biscotti-51205f.netlify.app/)
 - 🌱 I’m currently learning **Frameworks and Github**
@@ -20,12 +11,7 @@ I am a passionate junior Front-End Developer currently pursuing my software deve
 - 📫 How to reach me: **maserole.mojela@gmail.com**
 - 📄 Partlet: [https://padlet.com/maserolemojela/sheila-kobue-s-portfolio-f24226nfwt012lc6](https://padlet.com/maserolemojela/sheila-kobue-s-portfolio-f24226nfwt012lc6)
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheila-kobue-82161973)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/maserole.mojela)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27781536912)
-
-
+[![Header](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://github.com/Sheilakobue)
 
 ## Languages and Tools
 
@@ -45,6 +31,13 @@ I am a passionate junior Front-End Developer currently pursuing my software deve
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </p>
+
+<img align="right" alt="Coding" width="200" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheila-kobue-82161973)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/maserole.mojela)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27781536912)
 
 ## Projects
 
@@ -70,6 +63,10 @@ I am a passionate junior Front-End Developer currently pursuing my software deve
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/problemset/all/)
 
+## GitHub Stats
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheilakobue&label=Profile%20views&color=0e75b6&style=flat" alt="sheilakobue" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheilakobue" alt="sheilakobue" /></a> </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheilakobue&show_icons=true&locale=en&layout=compact" alt="sheilakobue" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sheilakobue&show_icons=true&locale=en" alt="sheilakobue" />
