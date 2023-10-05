@@ -48,19 +48,24 @@ I am a passionate junior Front-End Developer currently pursuing my software deve
 
 ## Projects
 
-<p>Portfolio</p>
+#### Portfolio
+
 <a href="https://github.com/Sheilakobue/sheila-portfolio.git">https://github.com/Sheilakobue/sheila-portfolio.git</a>
 
-<p>Personal Digital Card</p>
+#### Personal Digital Card
+
 <a href="https://github.com/Sheilakobue/digital-PersonalCard.git">https://github.com/Sheilakobue/digital-PersonalCard.git</a>
 
-<p>Block</p>
+#### Next.js Block
+
 <a href="https://github.com/Sheilakobue/SHEKOB881_bcl2302_jse2308_SheilaKobue_FSJ7.git">https://github.com/Sheilakobue/SHEKOB881_bcl2302_jse2308_SheilaKobue_FSJ7.git</a>
 
-<p>Online Resume</p>
+#### Online Resume
+
 <a href="https://github.com/Sheilakobue/SHEKOB881_bcl2302_Naeem_SheilaKobue_ITW9-main.git">https://github.com/Sheilakobue/SHEKOB881_bcl2302_Naeem_SheilaKobue_ITW9-main.git</a>
 
-<p>Tic Tac Toe Game</p>
+#### Tic Tac Toe Game
+
 <a href="https://github.com/Sheilakobue/tictactoe-game.git">https://github.com/Sheilakobue/tictactoe-game.git</a>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/problemset/all/)
