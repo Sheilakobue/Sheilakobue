@@ -26,6 +26,7 @@ I am a passionate junior Front-End Developer currently pursuing my software deve
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27781536912)
 
 
+
 ## Languages and Tools
 
 <p align="left"> 
@@ -66,7 +67,5 @@ I am a passionate junior Front-End Developer currently pursuing my software deve
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheilakobue&show_icons=true&locale=en&layout=compact" alt="sheilakobue" />
-
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sheilakobue&show_icons=true&locale=en" alt="sheilakobue" />
 
