@@ -5,6 +5,7 @@
 I am a motivated and detail-oriented Junior front-enddeveloper with a strong foundation in web developmenttechnologies with a passion for creating visually appealingand user-friendly websites. I am eager to contribute myskills and collaborate with a dynamic team to buildinnovative web solutions that enhance user experiences
 
 - 🔭 I’m currently working on [Portfolio](https://jovial-biscotti-51205f.netlify.app/)
+                              [Cloudgid Wesbsite] ( https://cloudgrid-website.netlify.app/)
 - 🌱 I’m currently learning **Frameworks and Github**
 - 👨‍💻 All of my projects are available at [https://github.com/Sheilakobue](https://github.com/Sheilakobue)
 - 📝 My Portfolio: [https://jovial-biscotti-51205f.netlify.app](https://jovial-biscotti-51205f.netlify.app)
